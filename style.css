@@ -1,0 +1,54 @@
+body {
+margin : 0;
+padding : 0;
+display : flex;
+height : 679px;
+justify-content: center;
+background-color: black;
+
+}
+
+
+.container img {
+  height : 675px;
+  padding : 0;
+  margin : 0;
+
+}
+
+
+.maintext {
+position : absolute;
+margin-top: -500px;
+margin-left: -50px;
+font-family : "Aldrich", sans-serif;
+font-size : 100px;
+color : white;
+margin-top: -500px;
+margin-left: 50px;
+
+}
+.secondtext {
+  position : absolute;
+  font-family : "Kaushan Script";
+  font-size : 80px;
+  color : white;
+  margin-top: -350px;
+  margin-left: -50px;
+
+}
+
+.footer {
+ position : absolute;
+ height: 100px;
+ width: 100%;
+ background-color: black;
+ margin-top: 579px;
+}
+
+.footer p{
+font-family : "Aldrich", sans-serif;
+font-size : 12px;
+color : white;
+margin-top : 20px;
+}
